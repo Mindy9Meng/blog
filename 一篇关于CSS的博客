@@ -1,0 +1,27 @@
+一、盒子的组成：
+1.网页内容:位于最中间，网页的主要显示内容
+2.边框（border）：位于内边距外面。
+3.内边距（paddind）：位于内容与边框之间的空隙
+4.外边距（margin）：边框与外面元素的空隙
+二、边框：
+1.颜色color:black,red
+2.大小：1px
+3.类型：实线solid，虚线dashed,点线dotted
+4.上边框设置：border-top:1px solid black
+5.下边框设置：border-bottom:1px solid black
+6.左边框设置：border-left:1px solid black
+7.右边框设置：border-right:1px dashed black
+三、margin:
+外边距：
+margin-top:上外边距
+margin:15px,表示当前元素的四格外边距都是15px
+margin:15px 20px 10px 15px:表示上边距15px，右边距20px，下边距10px，左边距15px
+四、padding:
+内边距：
+padding-bottom:下内边距
+padding:10px,表示4个内边距都是10px;
+padding:15px 20px 10px 10px,表示上内边距15px,右内边距20px,下内边距10px，左内边距10px;
+五、border-radius:表示边框的圆角。eg:border-radius:10px
+圆形：border-radius:50% 50%;
+
+
